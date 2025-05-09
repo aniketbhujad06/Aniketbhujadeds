@@ -1,23 +1,34 @@
-# PDF Report Repository
+* 📁 Project Repository: Video & PDF Resources
 
-This repository contains a PDF file related to [brief topic]. You can download or view the file directly from this repository.
+Welcome to this repository! It contains a demonstration video and two accompanying PDF documents that explain and support the project content.
 
-## 📄 PDF File
+---
 
-- [Download Report](./.pdf)
+ 🎥 Video File
 
-## 📌 Description
+ Video link of preskilit video : [`project-demo.mp4`](./project-demo.mp4)  
+ 
+  This video provides an overview of the project that is json in python .
 
-This PDF includes detailed information on:
+---
 
-- Topic overview
-- Data analysis / project explanation
-- Conclusions / results
-- Supporting visuals (if any)
+📄 PDF Files
 
-## 💡 How to Use
+1. cisco certification of python essencial 1 and 2 pdf :
+   
+       [`Project_Report.pdf`](./Project_Report.pdf)  
 
-Click on the PDF link above to open or download the file. You can also clone the repository to access it locally.
 
-```bash
-git clone https://github.com/your-username/your-repo-name.git
+2. EDS Activity lab :
+   
+      [`Technical_Documentation.pdf`](./Technical_Documentation.pdf)  
+
+
+---
+
+📌 How to Use
+
+You can:
+- Click the links above to view the video and PDFs directly on GitHub.
+
+
