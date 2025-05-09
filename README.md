@@ -1,4 +1,15 @@
-* 📁 Project Repository: Video & PDF Resources
+NAME - ANIKET ANIL BHUJAD 
+
+DIV. - CS6
+
+PRN - 202401080037
+
+ROLL NO. CS6-87
+
+SUB - ESSENSIAL OF DATA SCIENCE
+
+
+📁 Project Repository: Video & PDF Resources
 
 Welcome to this repository! It contains a demonstration video and two accompanying PDF documents that explain and support the project content.
 
@@ -16,10 +27,10 @@ Welcome to this repository! It contains a demonstration video and two accompanyi
 
 1. cisco certification of python essencial 1 and 2 pdf :
    
-       [`mergepy12.pdf`](./mergepy12.pdf)  
+    [`mergepy12.pdf`](./mergepy12.pdf)
 
 
-2. EDS Activity lab :
+3. EDS Activity lab :
    
       [`edsactivity1ab.pdf`](./edsactivity1ab.pdf)  
 
